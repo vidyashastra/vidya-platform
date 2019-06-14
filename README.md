@@ -1,1 +1,2 @@
-# vidya-platform
+# vidyashastra
+Vidyashastra : Drupal based LMS
